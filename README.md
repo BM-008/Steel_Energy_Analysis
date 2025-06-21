@@ -8,9 +8,9 @@ This project presents a data-driven exploration of power consumption patterns in
 
 - Performed exploratory data analysis on real-world steel plant energy data.
 - Identified high correlation between lagging reactive power and total energy usage (corr = 0.89).
-- Analyzed usage patterns based on `Hour`, `NSM`, and `Load_Type` to detect peak-hour inefficiencies.
+- Analyzed usage patterns based on `Hour`, `NSM` and `Load_Type` to detect peak-hour inefficiencies.
 - Calculated energy shares and power factor performance across operational load categories.
-- Suggested actionable optimizations like load shifting, power factor correction, and off-peak scheduling.
+- Suggested actionable optimizations like load shifting, power factor correction and off-peak scheduling.
 
 ---
 
